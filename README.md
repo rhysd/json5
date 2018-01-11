@@ -2,6 +2,13 @@
 
 [![Build Status](https://travis-ci.org/json5/json5.svg)](https://travis-ci.org/json5/json5)
 
+**!!This is a fork version of JSON5 for special purpose!!**
+
+- Allow elements of arrays and objects not to have separater ','
+- Allow newlines in strings
+
+---
+
 JSON is an excellent data format, but we think it can be better.
 
 **JSON5 is a proposed extension to JSON** that aims to make it easier for
