@@ -7,6 +7,7 @@
 - Allow elements of arrays and objects not to have separater ','
 - Allow newlines in strings
 - Do not allow `NaN` and `Infinity`
+- Duplicate the same key in an object causes a syntax error
 
 ---
 
