@@ -1,6 +1,6 @@
 {
     "name": "json5-relaxed",
-    "version": "0.5.3",
+    "version": "0.5.4",
     "description": "JSON for the ES5 era.",
     "keywords": [
         "json",
@@ -13,7 +13,6 @@
         "Jordan Tucker <jordanbtucker@gmail.com>"
     ],
     "main": "lib/json5.js",
-    "bin": "lib/cli.js",
     "files": [
         "lib/"
     ],
